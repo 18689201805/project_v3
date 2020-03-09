@@ -1,0 +1,33 @@
+.DS_Store
+node_modules
+/dist
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+kyoto.mp4
+balidao.mp4
+fashion.mp4
+paris.mp4
+stln.mp4
+xuanchuan.mp4
+yp.mp4
+9.137rosebalidao.mp4
+new_stln.mp4
+oneminute.mp4
+xuanchuan.mp4
+zulogo.mp4
